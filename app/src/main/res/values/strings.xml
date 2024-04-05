@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">UltimateTicTacToe</string>
+    <string name="app_name_spaced">Ultimate Tic Tac Toe</string>
+    <string name="single_player_button">Single Player</string>
+    <string name="multi_player_button">Multiplayer</string>
+    <string name="online_play_button">Online Play</string>
+    <string name="feature_not_implemented">Sorry! This feature has not been implemented yet.</string>
+    <string name="player_turn">%s! It is your turn.</string>
+    <string name="player_choose_board">%s! Choose a board!</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="board_is_taken">This Board is already taken</string>
+    <string name="game_over">Congrats %s! You won!</string>
+    <string name="game_over_tie">It\'s a tie!</string>
+    <string name="done">Done</string>
+    <string name="enter_player_one_name">Enter First Player\'s Name: </string>
+    <string name="enter_player_two_name">Enter Second Player\'s Name: </string>
+    <string name="name_screen_next_button">Next</string>
+    <string name="name_screen_exit_button">Exit</string>
+
+
+
+    <string name="enter_player1_name" >Player one: </string>
+    <string name="enter_player2_name">Player two: </string>
+
+
+    <string name="instruction1">In this game you play a board of
+        TicTacToe where each square in the board is an entire game of TicTacToe.
+        Your goal is to win the small games in order to win a square and then win the big TicTacToe board!</string>
+    <string name="instruction2">At the beginning of the game the first player will be prompted
+        to choose the board they want to play on.
+        After that, players will take turns to place their square. However, there is a special rule!</string>
+    <string name="instruction3">If you place a square, then the next board to be played on must
+        be in the same position as the square! For example,
+        here X places their mark on the top-left square so the next board to be played on in the top-left board.</string>
+    <string name="instruction4">Another rule is that if the next board to
+        be played is already taken then the next player can choose any board they want.
+        Here the middle-right board is already taken so X can now choose any board they like to play on.</string>
+    <string name="instruction5">Once the outer board is won like in this example the it is game over.</string>
+    <string name="instruction6">That is it! enjoy playing.</string>
+
+
+
+
+
+
+
+
+
+
+
+</resources>
